@@ -1,4 +1,4 @@
-# fundamentos-agilidade
+# Fundamentos da Agilidade
 Curso Intródutório de Fundamentos de Agilidade da Alura
 
 ## Resumo
