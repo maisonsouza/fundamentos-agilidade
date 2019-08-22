@@ -1,6 +1,13 @@
 # Curso de Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
 ![](https://www.alura.com.br/assets/api/share/curso-fundamentos-agilidade.png)
 
+## O Método Ágil
+```
+A engenharia de software surgiu depois que as outras engenharias já estavam consolidadas.
+O Agile herdou muito do mindset das outras engenharias.
+Na engenharia tudo é planejado antes de ser executado, processo pouco sucetível a mudanças.
+```
+
 
 ## Resumo
 * A Origem do Agile
