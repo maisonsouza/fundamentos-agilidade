@@ -1,5 +1,6 @@
-# Fundamentos da Agilidade
-Curso Intródutório de Fundamentos de Agilidade da Alura
+# Curso de Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
+![](https://www.alura.com.br/assets/api/share/curso-fundamentos-agilidade.png)
+
 
 ## Resumo
 * A Origem do Agile
