@@ -1,4 +1,4 @@
-# Curso de Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
+# Curso de Fundamentos de Agilidade: seus primeiros passos para a transformação ágil.
 ![](https://www.alura.com.br/assets/api/share/curso-fundamentos-agilidade.png)
 
 ## O Método Ágil
