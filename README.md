@@ -59,6 +59,7 @@ Primeiramente, o projeto e o objetivo final devem ser estabelecidos para que o p
 ### Feedback
 ```
 Nessa aula foi pautada a terceira importante diferença entre Agile e Waterfall: o feedback. O feedback nada mais é do que avaliações e críticas sobre os resultados obtidos, sejam elas positivas ou negativas, colaborando para o crescimento da empresa.
+Com essa reação do cliente (feedback) é possível fazer alterações no fluxo ou até eliminar tarefas que não sejam mais necessárias.
 ```
 
 ### O que é ser ágil
@@ -89,4 +90,6 @@ A Agile Alliance e a Scrum Alliance são instituições que promovem eventos com
 Também conseguimos observar diversos resultados com a implantação de métodos de agilidade dentro de pequenas e grandes empresas a partir de cases.
 
 Ao ler tais cases, não “copie e cole” as práticas de agilidade que já foram feitas dentro de outras organizações. Não é porque elas geraram um resultado enorme que você terá o mesmo resultado. Deve ser entendido o porquê de determinada empresa ter aplicado certa característica ágil, o que ela queria resolver com isso, e analisar vários fatores dentro da empresa antes de implantar a mesma metodologia na sua empresa/equipe.
+
+https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 ```
